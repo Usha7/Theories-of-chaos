@@ -1,2 +1,2 @@
 # Theories-of-chaos
-desc
+desc %%%% SAME LINE CHANGES FOR CONFLICT
